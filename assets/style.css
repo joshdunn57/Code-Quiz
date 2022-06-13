@@ -1,0 +1,35 @@
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+header button{
+    color: purple;
+    border: none;
+    background-color: transparent;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    margin: 50px 80px
+}
+
+
+#start{
+    border-radius: 5px;
+    padding: 8px;
+    background-color: purple;
+    color: white;
+}
