@@ -11,3 +11,6 @@ During this challenge, I was given the task to create a timed coding quiz to a u
 * Created several functions to start each question, to set the time, to check the question
 * Made a timer for the user to take the quiz
 * Coded multiple addEventListner functions to have the user click to go back, start game or clear scores.
+
+
+https://joshdunn57.github.io/Code-Quiz/
