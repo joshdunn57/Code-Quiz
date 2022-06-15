@@ -15,4 +15,4 @@ During this challenge, I was given the task to create a timed coding quiz to a u
 
 https://joshdunn57.github.io/Code-Quiz/
 
-screencapture-joshdunn57-github-io-Code-Quiz-2022-06-14-23_13_33.pdf
+![image](https://user-images.githubusercontent.com/105329236/173729235-00a218dc-8b89-4ce5-abb6-4707efb44207.png)
